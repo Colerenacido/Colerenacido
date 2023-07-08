@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Colerenacido
-- 👀 I’m interested in building web apps 
+- 👀 I’m interested in building websites 
 - 🌱 I currently have skills with HTML,CSS3  And javaScript.
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...Godsfavour.cole@gmail.com
