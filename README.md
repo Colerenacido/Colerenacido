@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Colerenacido
+- 👋 Hi, I’m Godsfavour Cole
 - 👀 I’m interested in building websites 
-- 🌱 I currently have skills with HTML,CSS3  And javaScript.
+- 🌱 I currently have skills with HTML, CSS3, JavaScript & React.
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...Godsfavour.cole@gmail.com
+- 📫 How to reach me ...info@colerenacido.com
 
 <!---
 Colerenacido/Colerenacido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
